@@ -63,13 +63,13 @@ strong {
 
 
 
-Hi, I’m a senior undergraduate studying at Department of Automation, Tsinghua University. I am seeking a **Ph.D./Mphil** position starting in Fall 2025.
+Hi, I’m a senior undergraduate studying at Department of Automation, Tsinghua University. I am seeking for a **PhD/Mphil** position starting in **Fall 2025**.
 
-I am currently working with [Prof. Jiachen Li](https://jiachenli94.github.io/) at UC Riverside on long-horizon robot manipulation. I have also collaborated with [Prof. Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) at Tsinghua University on humanoid sim2real and LLM planning projects, and also [Prof. Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) at Tsinghua University on tactile-based skill learning and regrasp policy learning. I am also currently conducting my undergraduate thesis under the supervision of [Prof. Xiang Li](https://scholar.google.com/citations?user=6EIX-JQAAAAJ&hl=en), focusing on multi-agent RL.
+I am currently working with Prof. [Jiachen Li](https://jiachenli94.github.io/) at UC Riverside on long-horizon robot manipulation. I have also collaborated with Prof. [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) at Tsinghua University on humanoid sim2real and LLM planning, and with Prof. [Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) at Tsinghua University on tactile-based skill learning and regrasp policy learning. Additionally, I am conducting my undergraduate thesis under the supervision of Prof. [Xiang Li](https://scholar.google.com/citations?user=6EIX-JQAAAAJ&hl=en), focusing on multi-agent RL.
 
 
 My research interest lies in **robotics**, **machine learning**, and **control theory**, with a special interest in **planning and control for manipulation tasks**. 
 
-See more information in **[Research](/blog/)** and **[CV](/cv/)** page.
+Visit the **[Research](/blog/)** and **[CV](/cv/)** pages for more information.
 
 

@@ -83,14 +83,14 @@ strong {
 
 <h2>Publications & Manuscripts</h2>
 
-1. Zhixu Li*, <strong>Xiaokang Sun*</strong>, Mingyu Cai, Jiachen Li. “Good Data Matters: STL-Enhanced Data-Efficient Imitation Learning for Long-Horizon Manipulation.” Accepted for presentation at <em>the 2024 Southern California Robotics Symposium</em> (SCR). Planned submission to <strong>IEEE Robotics and Automation Letters</strong>. (Co-first authorship)
+1. Zhixu Li*, <strong>Xiaokang Sun*</strong>, Mingyu Cai, Jiachen Li. “Good Data Matters: STL-Enhanced Data-Efficient Imitation Learning for Long-Horizon Manipulation.” Accepted for presentation at <em>the 2024 Southern California Robotics Symposium</em> (SCR). Planned submission to <em>IEEE Robotics and Automation Letters</em>. (Co-first authorship)
 
 
 
 <h2>Research Experiences</h2>
 <div class="experience">
     <h3>1. STL-Enhanced Data-Efficient IL for Long-Horizon Manipulation</h3>
-    <p><strong>Advisor:</strong> Jiachen Li. University of California, Riverside (TASL)   ｜   July 2024 – October 2024</p>    
+    <p><strong>Advisor:</strong> <em>Jiachen Li</em>. University of California, Riverside (TASL)   ｜   July 2024 – October 2024</p>    
     <ul>
         <li>Co-led the project with a Ph.D. student, responsible for algorithm design and low-level implementation.</li>
         <li>Developed an LLM-based task planner using STL for long-horizon manipulation and automatic data annotation.</li>
@@ -100,7 +100,7 @@ the data efficiency of skill acquisition.</li>
 </div>
 <div class="experience">
     <h3>2. Visual-Tactile Fusion-Based Regrasping Policy Learning</h3>
-    <p><strong>Advisor:</strong> Yao Jiang. Tsinghua University (ME)   |   July 2024 – Present</p>
+    <p><strong>Advisor:</strong> <em>Yao Jiang</em>. Tsinghua University (ME)   |   July 2024 – Present</p>
     <ul>
         <li>Co-led the project with a Ph.D. student, focusing on algorithm design and conducting simulations.</li>
         <li>Integrated visual and tactile perception to enable regrasping after grasp failures on objects with varying surface textures
@@ -110,7 +110,7 @@ and mass distributions.</li>
 </div>
 <div class="experience">
     <h3>3. Wearable Fingertip Tactile Rendering Devices Based on Parallel Mechanisms</h3>
-    <p><strong>Advisor:</strong> Yao Jiang. Tsinghua University (ME) | October 2023 – Present</p>
+    <p><strong>Advisor:</strong> <em>Yao Jiang</em>. Tsinghua University (ME) | October 2023 – Present</p>
     <ul>
         <li>Co-developed fingertip haptic rendering devices with another undergraduate and a Ph.D. student, focused on improving flexibility and rendering capabilities for enhanced user experience.</li>
         <li>Completed the mechanism design, 3D modeling, and 3D printing, while actively developing test software to evaluate device performance.</li>
@@ -119,7 +119,7 @@ and mass distributions.</li>
 </div>
 <div class="experience">
     <h3>4. Fine-tuned Sim-to-sim Framework for Mitigating Sim-to-real Problem</h3>
-    <p><strong>Advisor:</strong> Jianyu Chen. Tsinghua University (IIIS) | February 2024 – June 2024</p>
+    <p><strong>Advisor:</strong> <em>Jianyu Chen</em>. Tsinghua University (IIIS) | February 2024 – June 2024</p>
     <ul>
         <li>Collaborated on validating policies with real humanoid robots to ensure robustness across different environments.</li>
         <li>Fine-tuned learned policies in a sim-to-sim framework to address sim-to-real transfer challenges.</li>
@@ -128,7 +128,7 @@ and mass distributions.</li>
 </div>
 <div class="experience">
     <h3>5. Brain-Machine Integrated Intelligent Animal Experiment Platform</h3>
-    <p><strong>Advisor:</strong> Mingjun Zhang. Tsinghua University (BME) | August 2022 – January 2023</p>
+    <p><strong>Advisor:</strong> <em>Mingjun Zhang</em>. Tsinghua University (BME) | August 2022 – January 2023</p>
     <ul>
         <li>Developed a brain-machine hybrid intelligence platform for experiments with mice and miniature pigs, expanding applications in brain-computer interfaces.</li>
         <li>Designed the structure and completed 3D printing of a mini-vehicle platform, supporting the experimental setup.</li>

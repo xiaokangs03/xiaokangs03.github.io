@@ -65,7 +65,7 @@ You can download and check my CV by clicking: <a href="{{ page.cv_pdf | prepend:
     <h2>Technical Skills</h2>
     <ul>
       <li><h3>Languages & Tools</h3>
-    <p>C, C++, Python, PyTorch, NumPy, MATLAB, Simulink, Linux (Ubuntu), ROS, MuJoCo, PyBullet</p></li>
+    <p>C, C++, Python, PyTorch, NumPy, MATLAB, Simulink, Linux (Ubuntu), ROS, MuJoCo, PyBullet, GRF</p></li>
       <li><h3>Hardware Experience</h3>
     <p>FPGA, PSoC, EDA, Arduino Uno, Analog & Digital Circuits, Servo Motors, 3D Modeling & Print</p></li>
       <li><h3>Experience with Robot Platforms</h3>
