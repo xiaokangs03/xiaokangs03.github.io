@@ -4,6 +4,7 @@ permalink: /blog/
 title: Research
 nav: true
 nav_order: 1
+cv_pdf: CV_XiaokangSun.pdf
 toc:
   sidebar: left
 pagination:
@@ -86,11 +87,11 @@ strong {
 1. Zhixu Li*, <strong>Xiaokang Sun*</strong>, Mingyu Cai, Jiachen Li. “Good Data Matters: STL-Enhanced Data-Efficient Imitation Learning for Long-Horizon Manipulation.” Accepted for presentation at <em>the 2024 Southern California Robotics Symposium</em> (SCR). Planned submission to <em>IEEE Robotics and Automation Letters</em>. (Co-first authorship)
 
 
-
+<!-- research experiences -->
 <h2>Research Experiences</h2>
 <div class="experience">
-    <h3>1. STL-Enhanced Data-Efficient IL for Long-Horizon Manipulation</h3>
-    <p><strong>Advisor:</strong> <em>Jiachen Li</em>. University of California, Riverside (TASL)   ｜   July 2024 – October 2024</p>    
+    <h3>1. STL-Enhanced Data-Efficient IL for Long-Horizon Manipulation (paper coming soon)</h3>
+    <p><strong>Advisor:</strong> <em>Jiachen Li</em>. University of California, Riverside (TASL)   ｜   July 2024 – October 2024 </p>    
     <ul>
         <li>Co-led the project with a Ph.D. student, responsible for algorithm design and low-level implementation.</li>
         <li>Developed an LLM-based task planner using STL for long-horizon manipulation and automatic data annotation.</li>
@@ -99,7 +100,7 @@ the data efficiency of skill acquisition.</li>
     </ul>
 </div>
 <div class="experience">
-    <h3>2. Visual-Tactile Fusion-Based Regrasping Policy Learning</h3>
+    <h3>2. Visual-Tactile Fusion-Based Regrasping Policy Learning (paper coming soon)</h3>
     <p><strong>Advisor:</strong> <em>Yao Jiang</em>. Tsinghua University (ME)   |   July 2024 – Present</p>
     <ul>
         <li>Co-led the project with a Ph.D. student, focusing on algorithm design and conducting simulations.</li>
