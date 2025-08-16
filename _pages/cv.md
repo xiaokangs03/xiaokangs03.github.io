@@ -2,7 +2,7 @@
 layout: default
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 5
 cv_pdf: CV_XiaokangSun.pdf
 description: 
@@ -68,7 +68,7 @@ You can download and check my CV by clicking: <a href="{{ page.cv_pdf | prepend:
     <p>C/C++, Python, PyTorch, NumPy, MATLAB, Simulink, ROS, MuJoCo, Isaac Gym, Isaac Lab.</p></li>
       <li><h3>Hardware Experience</h3>
     <p>Servo Motor, FPGA, PSoC, EDA, Arduino Uno, Analog & Digital Circuits, 3D Modeling & Print.</p></li>
-      <li><h3>Experience with Robot Platforms</h3>
+      <li><h3>Operation Experience with Robot Platforms</h3>
     <p>UR-5, Franka, ALOHA, XBot-S, Booster T1, Unitree H1.</p></li>
     </ul>
 </div>

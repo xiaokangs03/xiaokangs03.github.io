@@ -2,15 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. in Computer Science, Georgia Institute of Technology # B.E. in Automation, Tsinghua University
+subtitle: MSCS Student, Georgia Tech. # B.E. in Automation, Tsinghua University
 
 profile:
   align: right
-  image: personal_life_photo.jpg
+  image: personal_life_photo4.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>Tsinghua University</p>
-  #   <p>Beijing, P.R.China</p>
+  more_info: >
+    
+    <p><em>@THU Library, Summer of 2025</em></p>
+#     <p>Beijing, P.R.China</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-<style>
+<!-- <style>
 /* 调整全局字体 */
 body {
     font-size: 16px; /* 基准字体大小 */
@@ -59,18 +60,20 @@ ul li {
 strong {
     font-weight: bold;
 }
-</style>
+</style> -->
 
-Hi, I’m a first-year MSCS student studying at Georgia Tech. I am seeking for research opportunities starting from **Fall 2025**.
+🚀 Hi, I’m a **first-year MSCS** student studying at Georgia Tech. Before coming to Georgia Tech, I earned a bachelor’s degree in Automation from Tsinghua University in Beijing. 
+
+
 
 <!-- Hi, I’m a senior undergraduate studying at Department of Automation, Tsinghua University. I am seeking for a **PhD/Mphil** position starting in **Fall 2025**. -->
 
-Prior to beginning my studies at Georgia Tech, I earned a bachelor’s degree in Automation from Tsinghua University in Beijing. During my time at Tsinghua, I collaborated with Prof. [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) Chen on humanoid control and with Prof. [Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) on tactile-based manipulation policy learning. For my undergraduate thesis, I worked under the supervision of Prof. [Xiang Li](https://scholar.google.com/citations?user=6EIX-JQAAAAJ&hl=en), focusing on multi-agent reinforcement learning. Additionally, I worked with Prof. [Jiachen Li](https://jiachenli94.github.io/) Li at UC Riverside on an autonomous driving benchmark project during the summer of 2024.
+During my time at Tsinghua, I worked with Professor [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) on humanoid and with Professor [Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) on tactile-based manipulation. For my undergraduate thesis, I worked under the supervision of Professor [Xiang Li](https://sites.google.com/view/homepageoflixiang/home?authuser=0), focusing on multi-agent RL. Additionally, I spent for months working with Professor [Jiachen Li](https://jiachenli94.github.io/) at UC Riverside as a visiting student on an autonomous driving benchmark project.
 
 
-Beyond my academic work, I completed an internship at Booster Robotics, where I worked on humanoid trajectory tracking and RL-based control.
+Beyond my academic work, I completed an internship at [Booster Robotics](https://www.boosterobotics.com/), where I worked under the supervision of Professor [Mingguo Zhao](https://www.au.tsinghua.edu.cn/en/info/1110/3296.htm) on humanoid trajectory tracking and RL-based control.
 
-**Research Interests**: Robot Learning, General-Purpose Manipulation, Reinforcement Learning.
+**Interests**: Robot Learning, General-Purpose Manipulation, Reinforcement Learning.
 
 <!-- Visit the **[Research](/blog/)** and **[CV](/cv/)** pages for more information. -->
 
