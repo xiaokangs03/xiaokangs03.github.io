@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.E. in Automation, Tsinghua University
+subtitle: M.S. in Computer Science, Georgia Institute of Technology # B.E. in Automation, Tsinghua University
 
 profile:
   align: right
@@ -61,15 +61,17 @@ strong {
 }
 </style>
 
+Hi, I’m a first-year MSCS student studying at Georgia Tech. I am seeking for research opportunities starting from **Fall 2025**.
+
+<!-- Hi, I’m a senior undergraduate studying at Department of Automation, Tsinghua University. I am seeking for a **PhD/Mphil** position starting in **Fall 2025**. -->
+
+Prior to beginning my studies at Georgia Tech, I earned a bachelor’s degree in Automation from Tsinghua University in Beijing. During my time at Tsinghua, I collaborated with Prof. [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) Chen on humanoid control and with Prof. [Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) on tactile-based manipulation policy learning. For my undergraduate thesis, I worked under the supervision of Prof. [Xiang Li](https://scholar.google.com/citations?user=6EIX-JQAAAAJ&hl=en), focusing on multi-agent reinforcement learning. Additionally, I worked with Prof. [Jiachen Li](https://jiachenli94.github.io/) Li at UC Riverside on an autonomous driving benchmark project during the summer of 2024.
 
 
-Hi, I’m a senior undergraduate studying at Department of Automation, Tsinghua University. I am seeking for a **PhD/Mphil** position starting in **Fall 2025**.
+Beyond my academic work, I completed an internship at Booster Robotics, where I worked on humanoid trajectory tracking and RL-based control.
 
-I am currently working with Prof. [Jiachen Li](https://jiachenli94.github.io/) at UC Riverside on long-horizon robot manipulation. I have also collaborated with Prof. [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) at Tsinghua University on humanoid sim2real and LLM planning, and with Prof. [Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) at Tsinghua University on tactile-based skill learning and regrasp policy learning. Additionally, I am conducting my undergraduate thesis under the supervision of Prof. [Xiang Li](https://scholar.google.com/citations?user=6EIX-JQAAAAJ&hl=en), focusing on multi-agent RL.
+**Research Interests**: Robot Learning, General-Purpose Manipulation, Reinforcement Learning.
 
-
-My research interest lies in **robotics**, **machine learning**, and **control theory**, with a special interest in **planning and control for manipulation tasks**. 
-
-Visit the **[Research](/blog/)** and **[CV](/cv/)** pages for more information.
+<!-- Visit the **[Research](/blog/)** and **[CV](/cv/)** pages for more information. -->
 
 
