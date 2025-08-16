@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 An extended abstract is accepted by SCR2024!
-

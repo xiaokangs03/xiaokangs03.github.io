@@ -19,7 +19,6 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-
 <style>
 /* 调整全局字体 */
 body {
@@ -86,7 +85,6 @@ strong {
 
 1. Zhixu Li*, <strong>Xiaokang Sun*</strong>, Mingyu Cai, Jiachen Li. “Good Data Matters: STL-Enhanced Data-Efficient Imitation Learning for Long-Horizon Manipulation.” Accepted for presentation at <em>the 2024 Southern California Robotics Symposium</em> (SCR). Planned submission to <em>IEEE Robotics and Automation Letters</em>. (Co-first authorship)
 
-
 <!-- research experiences -->
 <h2>Research Experiences</h2>
 <div class="experience">
@@ -136,8 +134,6 @@ and mass distributions.</li>
         <li>Gained significant skills in mechanical design and hardware programming, which are essential for robotics research.</li>
     </ul>
 </div>
-
-
 
 <!-- 课程项目 -->
 <h2>Selected Projects</h2>

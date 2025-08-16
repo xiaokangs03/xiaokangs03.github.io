@@ -5,7 +5,7 @@ title: CV
 nav: false
 nav_order: 5
 cv_pdf: CV_XiaokangSun.pdf
-description: 
+description:
 toc:
   sidebar: left
 ---
@@ -60,7 +60,6 @@ You can download and check my CV by clicking: <a href="{{ page.cv_pdf | prepend:
    target="_blank"
    rel="noopener noreferrer">CV_PDF</a>
 
-
 <div class="technical-skills">
     <h2>Technical Skills</h2>
     <ul>
@@ -72,10 +71,6 @@ You can download and check my CV by clicking: <a href="{{ page.cv_pdf | prepend:
     <p>UR-5, Franka, ALOHA, XBot-S, Booster T1, Unitree H1.</p></li>
     </ul>
 </div>
-
-
-
-
 
 <h2>Leadership & Extracurricular</h2>
 <div class="experience">
