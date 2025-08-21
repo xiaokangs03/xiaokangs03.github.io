@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSCS Student, Georgia Tech. # B.E. in Automation, Tsinghua University
+subtitle: |
+    IPA: [ɕjɑʊ kʰɑŋ | swən]
 
 profile:
   align: right
