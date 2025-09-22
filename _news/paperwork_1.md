@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-An extended abstract is accepted by SCR2024!
+An extended abstract on long-horizon learning has been accepted to SCR 2024!

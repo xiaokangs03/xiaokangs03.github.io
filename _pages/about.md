@@ -64,10 +64,11 @@ strong {
 
 <!-- Hi, I’m a senior undergraduate studying at Department of Automation, Tsinghua University. I am seeking for a **PhD/Mphil** position starting in **Fall 2025**. -->
 
-During my time at Tsinghua, I worked with Professor [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) on humanoid and with Professor [Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) on tactile-based manipulation. For my undergraduate thesis, I worked under the supervision of Professor [Xiang Li](https://sites.google.com/view/homepageoflixiang/home?authuser=0), focusing on multi-agent RL. Additionally, I spent for months working with Professor [Jiachen Li](https://jiachenli94.github.io/) at UC Riverside as a visiting student on an autonomous driving benchmark project.
+During my time at Tsinghua, I worked with Professor [Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/) on humanoid and with Professor [Yao Jiang](https://ieeexplore.ieee.org/author/37086023995) on tactile-based manipulation. For my undergraduate thesis, I worked under the supervision of Professor [Xiang Li](https://sites.google.com/view/homepageoflixiang/home?authuser=0), focusing on multi-agent RL. Additionally, I spent for months working with Professor [Jiachen Li](https://jiachenli94.github.io/) at UC Riverside as a visiting student in the summer of 2024.
 
 Beyond my academic work, I completed an internship at [Booster Robotics](https://www.boosterobotics.com/), where I worked under the supervision of Professor [Mingguo Zhao](https://www.au.tsinghua.edu.cn/en/info/1110/3296.htm) on humanoid trajectory tracking and RL-based control.
 
-**Interests**: Robot Learning, General-Purpose Manipulation, Reinforcement Learning.
+**Interests**: Robot Learning, Planning and Control.
+
 
 <!-- Visit the **[Research](/blog/)** and **[CV](/cv/)** pages for more information. -->
