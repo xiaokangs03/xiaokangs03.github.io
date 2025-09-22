@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted by ICCV 2025!
+A paper has been accepted to ICCV 2025!
